@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tahera Firdose</title>
+    <link>https://taherafirdose.github.io/taherafirdose_Portfolio/</link>
+    <description>Recent content on Tahera Firdose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Apr 2023 11:25:05 -0400</lastBuildDate>
+    <atom:link href="https://taherafirdose.github.io/taherafirdose_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>100 days of Machine Learning</title>
+      <link>https://taherafirdose.github.io/taherafirdose_Portfolio/post/chapter-6/</link>
+      <pubDate>Fri, 14 Apr 2023 11:25:05 -0400</pubDate>
+      <guid>https://taherafirdose.github.io/taherafirdose_Portfolio/post/chapter-6/</guid>
+      <description>Overview: &amp;ldquo;*100 Days of Machine Learning&amp;rdquo; is my ambitious journey, diligently chronicled on GitHub, where I committed myself to mastering machine learning. Over this period, I delved deeply into a diverse set of tools and techniques, enhancing both my theoretical understanding and practical skills.&#xA;Objective: The aim was to solidify my foundation in machine learning, with a focus on acquiring hands-on experience in various key aspects of the field. This project was a personal challenge to evolve from a learner to a proficient practitioner in machine learning.</description>
+    </item>
+    <item>
+      <title>Demand Forecasting - Supply Chain</title>
+      <link>https://taherafirdose.github.io/taherafirdose_Portfolio/post/chapter-5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      <guid>https://taherafirdose.github.io/taherafirdose_Portfolio/post/chapter-5/</guid>
+      <description>Project Scope: In this project, I applied my extensive data analysis and machine learning skills to solve the critical challenge of demand forecasting in supply chain management. My goal was to develop a predictive model that not only forecasts product demand with high accuracy but also offers actionable insights for inventory optimization and cost reduction.&#xA;Key Skills and Methodologies:&#xA;*In-Depth Data Analysis: Demonstrated exceptional prowess in data analysis, starting with rigorous data cleaning and standardization to ensure impeccable data quality—a crucial step for accurate predictive modeling.</description>
+    </item>
+    <item>
+      <title>Twitter Sentiment Analysis Using CNN-RNN Hybrid Model</title>
+      <link>https://taherafirdose.github.io/taherafirdose_Portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <guid>https://taherafirdose.github.io/taherafirdose_Portfolio/post/chapter-2/</guid>
+      <description>Overview: This project involves developing a sentiment analysis model to classify tweets into positive, negative, or neutral sentiments. Utilizing a subset of 60,000 tweets from a larger dataset of 95,000 tweets, this project employs advanced neural network architectures to process and analyze textual data. The model is accessible through a user-friendly interface created with Flask, running on localhost:5000.&#xA;Objectives:&#xA;To perform sentiment analysis on a large dataset of Twitter tweets. To preprocess and prepare textual data for neural network training.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://taherafirdose.github.io/taherafirdose_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://taherafirdose.github.io/taherafirdose_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.&#xA;Platform URL LinkedIn: https://www.linkedin.com/in/tahera-firdose/ Medium: https://medium.com/@tahera-firdose GitHub: https://github.com/taherafirdose </description>
+    </item>
+    <item>
+      <title>Customer Segmentation — A Key to Personalized Marketing</title>
+      <link>https://taherafirdose.github.io/taherafirdose_Portfolio/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://taherafirdose.github.io/taherafirdose_Portfolio/post/chapter-3/</guid>
+      <description>Overview: This project delves into the realm of customer segmentation using advanced machine learning techniques. By analyzing a comprehensive dataset of a marketing campaign, we aim to segment customers into distinct groups based on their behavioral, demographic, and psychographic characteristics. This segmentation facilitates the development of tailored marketing strategies that resonate with each customer group, thereby enhancing engagement and satisfaction.&#xA;Objectives:&#xA;To analyze a rich dataset from a marketing campaign, focusing on customer demographics, purchasing behaviors, and other relevant attributes.</description>
+    </item>
+    <item>
+      <title>Image Classification with MobileNetV2: A Transfer Learning Approach</title>
+      <link>https://taherafirdose.github.io/taherafirdose_Portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://taherafirdose.github.io/taherafirdose_Portfolio/post/chapter-1/</guid>
+      <description>Overview: This project explores the application of transfer learning in computer vision, focusing on classifying fruits and vegetables using the MobileNetV2 model. It addresses the challenge of efficiently training deep neural networks by leveraging a pre-trained model. Utilizing a subset of a Kaggle dataset, the project combines innovative deep learning techniques with practical model deployment using Flask.&#xA;Objectives:&#xA;To perform image classification on a diverse dataset of fruits and vegetables from Kaggle.</description>
+    </item>
+    <item>
+      <title>Price Optimization Using Machine Learning Techniques</title>
+      <link>https://taherafirdose.github.io/taherafirdose_Portfolio/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://taherafirdose.github.io/taherafirdose_Portfolio/post/chapter-4/</guid>
+      <description>Overview: This project focuses on utilizing Machine Learning (ML) techniques to optimize pricing strategies in a café business scenario. By analyzing a rich dataset with sales information, the project aims to understand how various factors like date, item prices, quantities sold, and special conditions (holidays, weekends, etc.) influence sales. The primary goal is to determine optimal pricing for different products under varying circumstances, ultimately enhancing profitability and customer satisfaction.&#xA;Objectives:</description>
+    </item>
+    <item>
+      <title>Tahera Firdose</title>
+      <link>https://taherafirdose.github.io/taherafirdose_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://taherafirdose.github.io/taherafirdose_Portfolio/about/</guid>
+      <description>Hi, I&amp;rsquo;m Tahera, a passionate data explorer with a Postgraduate Diploma in Artificial Intelligence. My journey blends the art of storytelling with the intricacies of AI and data science, a skill honed through my role as a technical writer on Medium, where I transform complex concepts into engaging stories. Driven by insatiable curiosity and continuous learning, I excel in turning data into a canvas of creativity and logic. Eager to apply my skills in challenging roles, I am ready to contribute to meaningful data science projects, leveraging my passion for data to create positive, impactful solutions.</description>
+    </item>
+  </channel>
+</rss>
